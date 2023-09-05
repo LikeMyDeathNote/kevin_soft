@@ -9,5 +9,4 @@ The book helps a lot!
 - [ ] Test
 
 # Images Test
-![[https://cdn.discordapp.com/attachments/1097181762267906099/1148681086201761984/91-um1uerql.png]]
-![alt text]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1097181762267906099/1148681086201761984/91-um1uerql.png)https://cdn.discordapp.com/attachments/1097181762267906099/1148681086201761984/91-um1uerql.png)
+https://cdn.discordapp.com/attachments/1097181762267906099/1148681086201761984/91-um1uerql.png
