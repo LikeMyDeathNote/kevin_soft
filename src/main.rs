@@ -1,7 +1,8 @@
+
+
 fn main() {
-    println!("Hey Kevin.. slecht nieuws..");
-    println!("Jacco is gay en pakt ons 1 voor 1 van achteren zonder warning..");
-    println!("Ren nu dat je nog kan!!");
-    loop{}
-    
+    let kevin = "Kevin";
+    println!("Hey {}.. Bad news..",kevin);
+    println!("This script is working..");
+    println!("But I don't know how to add Logic!!");
 }
