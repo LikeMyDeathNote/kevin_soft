@@ -8,7 +8,7 @@ fn main() {
                 .set(ImagePlugin::default_nearest())
                 .set(WindowPlugin {
                     primary_window: Some(Window {
-                        title: "Jacco Liep Het Raam Open".into(),
+                        title: "Jacco Liet Het Raam Open".into(),
                         resolution: (640.0, 480.0).into(),
                         resizable: true,
                         ..default()
