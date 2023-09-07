@@ -1,8 +1,11 @@
-
+use bevy::prelude::*;
 
 fn main() {
-    let kevin = "Kevin";
-    println!("Hey {}.. Bad news..",kevin);
-    println!("This script is working..");
-    println!("But I don't know how to add Logic!!");
+   App::new()
+       .add_systems(Update, hello_world_system)
+       .run();
+}
+
+fn hello_world_system() {
+   println!("hello world");
 }
