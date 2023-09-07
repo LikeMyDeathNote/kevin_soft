@@ -1,8 +1,7 @@
 # kevin_soft
 Hi I'm new to programming.
-I bought the Rust Programming 2021 edition Book and are learning from scratch how to code
-I have always loved programming, but the internet at home is not a great way to learn..
-The book helps a lot! 
+I'm making this my First Project as I learn, I also want to add a cheatsheet for refrence and multible tools
+So it may have more then one perpose..
 
 ### Check List Test
 - [x] Hello
