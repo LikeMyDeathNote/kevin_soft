@@ -3,11 +3,13 @@ Hi I'm new to programming.
 I'm making this my First Project as I learn, I also want to add a cheatsheet for refrence and multible tools
 So it may have more then one perpose..
 
-### Check List
+## Check List
 - [x] Adding Jacco.
-- [ ] Leaving the Window Open.
+- [x] Leaving the Window Open.
+- [ ] Adding Chicks.
+- [ ] Make Jacco Do Stuff to Femboys.
 
-# Images Test
+### Fun Little Images
 ![alt_text](https://cdn.discordapp.com/attachments/660957902374436865/1149490134757146706/image.png)
 
 ### A Fun Little Manga
